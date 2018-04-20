@@ -1,0 +1,3 @@
+[submodule "cs554-yams-backend"]
+	path = cs554-yams-backend
+	url = git@github.com:gluaxspeed/cs554-yams-backend.git
