@@ -1,7 +1,7 @@
-CS554-YAMS
+# CS554-YAMS
 YAMS: Yet Another Messaging Service
 
-# Implementation Plan
+## Implementation Plan
 
 Group Name: **Webpackers**
 
